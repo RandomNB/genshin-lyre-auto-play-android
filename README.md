@@ -2,7 +2,7 @@ Forked from [genshin-lyre-auto-play](https://github.com/Misaka17032/genshin-lyre
 
 ## 简介
 
-根据midi文件生成演奏“风物之诗琴”的Auto.js脚本
+根据midi文件生成演奏原神“风物之诗琴”的Auto.js脚本，适用于Android设备
 
 ## 使用方法
 
