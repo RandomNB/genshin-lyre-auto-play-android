@@ -37,7 +37,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
 
 ### 4.生成
 
-使用管理员权限运行`python android.py`生成指定Midi的Auto.js脚本文件
+运行`python android.py`生成指定Midi的Auto.js脚本文件
 
 ### 5.安装Auto.js
 
